@@ -1,0 +1,42 @@
+footer{
+  background-color: #1E8449;
+  padding: 2% 5%;
+  text-align: center;
+}
+
+h1{
+  font-family: 'El Messiri', sans-serif;
+}
+
+#skills{
+  padding: 3%  15%;
+}
+
+#job{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #1E8449;
+}
+
+
+.container{
+  padding: 2% 5%;
+}
+
+.awesome{
+  color: #1ABC9C;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+
+}
+
+.awesome:hover{
+  color:#5CB582;
+}
+
+
+
+.skills-box{
+  text-align: center;
+  padding: 3%;
+}
